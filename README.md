@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World! (Just kidding this isn't program output)
 
 <!--
 **cdavidson8/cdavidson8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- My name is Curtis Davidson and I'm currently a senior at the University of North Alabama
+- I'm pursuing an IT degree with a concentration in software development
+- This profile is another step in that direction :)
